@@ -80,7 +80,7 @@ The products are built by vendoring these repos byte-identical under a shared al
 | **Capital Optimizer** | Arps → DCF → risked NPV + MILP program selection | [open ▶](https://capital-optimizer.streamlit.app) | [code](https://github.com/diazaeric1-droid/capital-optimizer) |
 | **Well Performance Studio** | PVT, Vogel IPR × HB/BB nodal, ESP/gas-lift design, RTA | [open ▶](https://well-performance-studio.streamlit.app) | [code](https://github.com/diazaeric1-droid/well-performance-studio) |
 | **PE Pipeline** | Multi-agent fleet triage: detect → predict → authorize, versioned JSON contracts | [open ▶](https://pe-pipeline.streamlit.app) | [code](https://github.com/diazaeric1-droid/pe-pipeline) |
-| **Gas-Lift Advisor** | GLPC fit + analytical injection optimum + shadow-price fleet allocation | [open ▶](https://gas-lift-advisor.streamlit.app) | [code](https://github.com/diazaeric1-droid/well-gas-lift-advisor) |
+| **Gas-Lift Advisor** | GLPC fit + analytical injection optimum + shadow-price fleet allocation | [via Workbench ▶](https://engineering-workbench.streamlit.app) | [code](https://github.com/diazaeric1-droid/well-gas-lift-advisor) |
 
 <sub>All component apps are live on Streamlit Community Cloud, public (no login), auto-deploy from `main`. Apps sleep when idle and wake on first visit (~30s).</sub>
 
